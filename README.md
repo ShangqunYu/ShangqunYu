@@ -1,5 +1,5 @@
 ### This is Shangqun Yu 👋
-- 🔭 I’m currently a cs phd student at University of Massachusetts Amherst
+- 🔭 I’m currently a cs phd student at University of Massachusetts Amherst.
 - 👯 My ultimate goal by building intelligent robots is to assist humans in their everyday tasks, extending their autonomy, and improving their quality of life.
 - 📫 How to reach me: shangqunyu@umass.edu
 
